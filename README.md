@@ -10,7 +10,7 @@ git clone https://github.com/rohan-mistry/Shoocal-assignment.git
 Go Inside the app to create and activate virtual env
 ```sh
 python -m venv venv
-cd venv\Scripts\acivate
+venv\Scripts\acivate
 ```
 
 Install required packages
